@@ -91,9 +91,6 @@ The adaptive UI/UX system using AI‑based eye tracking produced clear improveme
 ## Articles published / References
 
 
-## Articles published / References
-
-
 1. X. Zhang, Y. Sugano, M. Fritz, and A. Bulling, “Appearance-Based Gaze Estimation in the Wild,” *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2015. [web:196]
 
 2. X. Zhang, “Gaze Estimation and Interaction in Real-World Environments,” PhD thesis, Max Planck Institute for Informatics, 2017. [web:190]
